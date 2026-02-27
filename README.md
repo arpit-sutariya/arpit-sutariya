@@ -2,7 +2,7 @@
 
 **M.S. Applied Data Science @ USC** | ML · NLP · Multi-Agent AI · Full-Stack
 
-I build intelligent systems that bridge the gap between data and real-world impact — from multi-agent AI frameworks and LLM-powered tools to real-time collaborative apps and computer vision pipelines.
+I build intelligent systems that bridge the gap between data and real-world impact from multi-agent AI frameworks and LLM-powered tools to real-time collaborative apps and computer vision pipelines.
 
 📍 Los Angeles, CA · 📫 [arpitsutariya13@gmail.com](mailto:arpitsutariya13@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/arpitsutariya/)
 
