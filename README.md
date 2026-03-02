@@ -4,7 +4,7 @@
 
 I build intelligent systems that bridge the gap between data and real-world impact from multi-agent AI frameworks and LLM-powered tools to real-time collaborative apps and computer vision pipelines.
 
-📍 Los Angeles, CA · 📫 [arpitsutariya13@gmail.com](mailto:arpitsutariya13@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/arpitsutariya/)
+📍 Los Angeles, CA · 📫 [arpitsutariya13@gmail.com](mailto:arpitsutariya13@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-sutariya-6194a5223/)
 
 ---
 
