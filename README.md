@@ -1,70 +1,62 @@
-# Hi, I'm Arpit Sutariya 👋
-
-**M.S. Applied Data Science @ USC** | ML · NLP · Multi-Agent AI · Full-Stack
-
-I build intelligent systems that bridge the gap between data and real-world impact from multi-agent AI frameworks and LLM-powered tools to real-time collaborative apps and computer vision pipelines.
-
-📍 Los Angeles, CA · 📫 [arpitsutariya13@gmail.com](mailto:arpitsutariya13@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-sutariya-6194a5223/)
-
----
-
-### 🔭 What I'm Working On
-
-- Multi-agent AI systems with **LangGraph** & **LangChain**
-- LLM fine-tuning and retrieval-augmented generation (RAG)
-- Scalable data quality & ML pipelines for production environments
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**ML & AI**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Web & Cloud**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Codeflow**](https://github.com/arpit-sutariya/codeflow) | Real-time collaborative code editor with Operational Transformation for conflict resolution | Python, Flask, Socket.io, Redux |
-| [**GymAI**](https://github.com/arpit-sutariya/GymAI-Intelligent-Gym-Trainer) | Intelligent gym trainer with real-time pose estimation and rep counting | React, Flask, MediaPipe, PostgreSQL |
-| [**AI Code Review Bot**](https://github.com/arpit-sutariya/code-review-bot) | GitHub Actions bot for automated PR reviews using Claude & GPT-4o | Python, GitHub Actions, Anthropic API |
-| [**ChatDB**](https://github.com/arpit-sutariya/chatdb21) | Natural language interface for querying databases | Python |
-| [**Autopilot**](https://github.com/arpit-sutariya/autopilot) | AI-powered automation agent | Python |
-
----
-
-### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Arpit Sutariya, Software Engineer. I build software, data systems and AI you can actually trust." src="assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-sutariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://portfolio-five-xi-m41e5p3qbh.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arpit-sutariya-6194a5223/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:arpitsutariya13@gmail.com">arpitsutariya13@gmail.com</a> &nbsp;·&nbsp;
+  Los Angeles
 </p>
 
----
+<br>
 
-### 🤝 Let's Connect
+Hi, I'm Arpit, a software engineer finishing my M.S. in Applied Data Science at USC. I work across the stack, from backend services and data pipelines to machine learning models and LLM agents. Most of the projects below come with tests, a reproducible eval, and a short section on what still doesn't work.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-sutariya-6194a5223/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-xi-m41e5p3qbh.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitsutariya13@gmail.com)
+<br>
+
+### `(01)` &nbsp;Selected work: AI agents
+
+| | What it does | Measured |
+|:--|:--|:--|
+| **[Incident Copilot](https://github.com/arpit-sutariya/incident-copilot)** | On-call agent that investigates logs, metrics, and deploys, proposes one allowlisted fix, waits for approval, then verifies recovery on real traffic | 20/24 incidents fixed · 4/4 wrong fixes caught |
+| **[Scoped SQL Agent](https://github.com/arpit-sutariya/scoped-sql-agent)** | Plain-English analytics over messy ERP, CRM, and support data, with per-user permissions enforced by the database itself. MCP server for Claude Desktop | 102/102 attacks refused · 0 values leaked |
+| **[Event Prep Agent](https://github.com/arpit-sutariya/event-prep-agent)** | One sentence in, an approved calendar and email plan out. LangGraph state survives a crash at any step | 300 chaos runs · 0 duplicate emails |
+| **[Invoice Agent](https://github.com/arpit-sutariya/invoice-agent)** | Matches supplier invoices to purchase orders, auto-approves clean ones, routes exceptions to a reviewer. FastAPI + React | 100/100 correct · 0 false approvals |
+| **[Store Assistant](https://github.com/arpit-sutariya/store-agent)** | Shopping and support agent with hybrid search, photo search (CLIP), and returns the customer confirms | 40/40 relevant result first |
+| **[Home Repair Check](https://github.com/arpit-sutariya/home-repair-check)** | Photo-based home repair triage: likely issue, urgency, cost range, quote check, real local pros | 81% photo · 92% text accuracy |
+
+### `(02)` &nbsp;Data & earlier work
+
+- **[ChatMyDB](https://github.com/arpit-sutariya/chatdb21)**: NL-to-SQL across PostgreSQL and MongoDB, 92% first-pass accuracy
+- **[OpsBrainLLM](https://github.com/arpit-sutariya/opsbrainLLM)**: five LangGraph agents for manufacturing analytics
+- **[Code Review Bot](https://github.com/arpit-sutariya/code-review-bot)**: PR reviews from GitHub Actions
+- **[Codeflow](https://github.com/arpit-sutariya/codeflow)**: real-time collaborative editor (OT)
+- **[GymAI](https://github.com/arpit-sutariya/GymAI-Intelligent-Gym-Trainer)**: pose estimation and rep counting
+- **[Autopilot](https://github.com/arpit-sutariya/autopilot)**: YOLOv7 + MiDaS perception with A\* path planning
+
+<br>
+
+### `(03)` &nbsp;Experience
+
+| Where | Role | When |
+|:--|:--|:--|
+| **Amazon** <br><sub>Amazon Music · San Francisco</sub> | Software Engineering Intern <br><sub>Mined search logs with PySpark on EMR and built an LLM training-data pipeline on Bedrock (416K pairs) to fine-tune a sparse retrieval encoder</sub> | <sub>May – Aug 2026</sub> |
+| **USC Viterbi** <br><sub>Los Angeles</sub> | Graduate Research Assistant <br><sub>Cut BigQuery latency from 2.5s to 0.8s; built ETL for 50K documents and an agentic LangGraph workflow</sub> | <sub>Aug 2025 – Apr 2026</sub> |
+| **RelTime** <br><sub>Mumbai</sub> | Data Scientist Intern <br><sub>Data quality framework that caught 95% of issues before production; Tableau and Power BI on a star schema</sub> | <sub>May – Aug 2024</sub> |
+
+<br>
+
+### `(04)` &nbsp;Toolkit
+
+**Languages** &nbsp; Python · SQL · Java · Scala · JavaScript · C/C++ · Bash <br>
+**Data** &nbsp; Spark / PySpark · Airflow · dbt · Kafka · Redshift · Snowflake · BigQuery · PostgreSQL <br>
+**Cloud** &nbsp; AWS (EMR, Glue, Kinesis, Lambda, Athena, Bedrock, SageMaker) · Docker · Kubernetes · GitHub Actions <br>
+**AI / ML** &nbsp; LangGraph · LangChain · Claude API · MCP · RAG · FAISS · OpenSearch · PyTorch · scikit-learn
+
+<br>
+
+<p align="center">
+  <sub>M.S. Applied Data Science, University of Southern California · graduating December 2026 · open to full-time roles in software, data, and ML</sub>
+</p>
